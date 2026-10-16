@@ -1,0 +1,76 @@
+{
+  "pdf": "guia-do-projeto.pdf",
+  "pages": 23,
+  "pdf_sha256": "50a845ad5c9f42e60b276382473764415fba5facfcf23c4d6c2402fd9580d85a",
+  "inputs": {
+    "docs/GUIA-DO-PROJETO.md": {
+      "sha256": "3907a6a5811128461908f97569c33601b648b2a7730a2dd0838164b739d3e5dd",
+      "bytes": 28693
+    },
+    "main.py": {
+      "sha256": "28fbdea0523dd6c252f4d7429c1e83932d6b619d402d5f46d965daeac5fdbf6c",
+      "bytes": 670
+    },
+    "connection.py": {
+      "sha256": "1f5281eccc307f0005a7420c8a8443794ae5e700e57a80f035bbc4e0818ec145",
+      "bytes": 493
+    },
+    "port_scanner/__init__.py": {
+      "sha256": "97daefe815c138d298d4e298c3fe946550f8e3af3e138c8672892ba6679c2c36",
+      "bytes": 75
+    },
+    "port_scanner/__main__.py": {
+      "sha256": "e4ba0c45b9b25b7863dc716819103583e5d38c41ae8e401ef60a0df35b75ca5a",
+      "bytes": 160
+    },
+    "port_scanner/config.py": {
+      "sha256": "a7f23aee51efd050e66847e319f003ceebd3f53be3a39dcd078d29a1901b8feb",
+      "bytes": 1814
+    },
+    "port_scanner/probes.py": {
+      "sha256": "cb3d25e1a086e8e4d4ab521c6009c866a899951f5ad94fc6683123044606d2cd",
+      "bytes": 1626
+    },
+    "port_scanner/scanner.py": {
+      "sha256": "c34c8e093a392ec658739834f7cf5b0a9d51dd4109fc986270605e1ec3405cbd",
+      "bytes": 1660
+    },
+    "port_scanner/cli.py": {
+      "sha256": "fd800069af6e05b73ffc6efe3c09f43d461d146c4c792a49e0e4ec8e1a1460d5",
+      "bytes": 3387
+    },
+    "docs/build_project_guide.py": {
+      "sha256": "5e8fc9fba275aa95c195b7c7b0528ee6f7a79bcd863f8a92233be800e0911b36",
+      "bytes": 11832
+    },
+    "docs/requirements-pdf.txt": {
+      "sha256": "44e2f99392b34d12f483a950b8cab82d3ed28054cee75dc0142abe546248dba3",
+      "bytes": 116
+    }
+  },
+  "page_text_lengths": [
+    380,
+    829,
+    2815,
+    2526,
+    2435,
+    1960,
+    2468,
+    2680,
+    2432,
+    2723,
+    2783,
+    2275,
+    2735,
+    225,
+    1025,
+    784,
+    341,
+    446,
+    2299,
+    2100,
+    2160,
+    3204,
+    934
+  ]
+}

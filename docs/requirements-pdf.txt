@@ -1,0 +1,3 @@
+# Dependências opcionais para gerar/verificar o guia, não para executar o scanner.
+reportlab==5.0.1
+pypdf==6.21.0

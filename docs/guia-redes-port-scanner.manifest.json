@@ -1,0 +1,62 @@
+{
+  "output": "/home/volpsz/projects/port-scanner/docs/guia-redes-port-scanner.pdf",
+  "pages": 29,
+  "bytes": 143475,
+  "snapshot": {
+    "snapshot/main.py": {
+      "sha256": "2a2c1210ef049d2484f3695d96d9de46ecb71caed7d9fe3f08c3c76cde0d2062",
+      "lines": 47
+    },
+    "snapshot/connection.py": {
+      "sha256": "d9cfdf4fcf692bdd29bea32aa987b52ed966a0b50138af7eddf24058ece7eaea",
+      "lines": 47
+    },
+    "snapshot/test_connection.py": {
+      "sha256": "8940c5e620e0cbf089c18a66c74ef746f1a9f37f61063c78a2ef5723a4ffc1fb",
+      "lines": 59
+    },
+    "labs/tcp_server.py": {
+      "sha256": "131671a49aeb93b683d91b811dc1a74fd33d79af4472f92b7871cfae38c4c926",
+      "lines": 26
+    },
+    "labs/udp_server.py": {
+      "sha256": "a2a6d0d0347283f65b9c79fafc2fb16e8ffee8a95ac99b0f0ad14d2543b590af",
+      "lines": 24
+    },
+    "labs/probe_local.py": {
+      "sha256": "628090233f542888c28a6bb5a2343668ae01d5fefc245db6c72ca0cb7ce53043",
+      "lines": 23
+    }
+  },
+  "page_text_lengths": [
+    1494,
+    1339,
+    1952,
+    2030,
+    1904,
+    1857,
+    2162,
+    2237,
+    1917,
+    2035,
+    1807,
+    2163,
+    2088,
+    1920,
+    2414,
+    1858,
+    1692,
+    2014,
+    2223,
+    2041,
+    2529,
+    2128,
+    1820,
+    2080,
+    3073,
+    1476,
+    1335,
+    1376,
+    2072
+  ]
+}

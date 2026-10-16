@@ -1,0 +1,5 @@
+# PDFs são artefatos binários; nunca aplicar conversão de finais de linha.
+*.pdf binary
+
+# Extração histórica: preservar o texto produzido pelo leitor de PDF.
+docs/*.extraido.txt -whitespace

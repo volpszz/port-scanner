@@ -1,0 +1,23 @@
+TCP ready on 127.0.0.1:8000
+tcp/8000: open
+
+tcp/8000 after shutdown: closed
+
+UDP ready on 127.0.0.1:9999; silent=False
+udp/9999: open
+
+UDP ready on 127.0.0.1:9999; silent=True
+udp/9999: open|filtered
+
+udp/9999 after shutdown: closed
+
+test_main_dispatches_selected_protocols (test_connection.ScannerTests.test_main_dispatches_selected_protocols) ... ok
+test_menu_retries_and_offers_both (test_connection.ScannerTests.test_menu_retries_and_offers_both) ... ok
+test_tcp_open_and_closed (test_connection.ScannerTests.test_tcp_open_and_closed) ... ok
+test_udp_response_is_open (test_connection.ScannerTests.test_udp_response_is_open) ... ok
+test_udp_silence_is_inconclusive (test_connection.ScannerTests.test_udp_silence_is_inconclusive) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.057s
+
+OK
